@@ -13,6 +13,9 @@
     padding: 250px 0 200px;
 }
 
+.navbar-toggler-icon {
+    color: white;
+}
 .banner h1 {
     margin: 0;
     padding: 0;
